@@ -286,19 +286,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buzzgrewal&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzgrewal&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buzzgrewal&theme=github_dark" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzgrewal&theme=github_dark" alt="Repos per Language" />
-</div>
-
----
 
 ## 🎉 **Fun Facts**
 
