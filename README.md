@@ -42,13 +42,13 @@
   <a href="https://github.com/buzzgrewal" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:abdullah.grewal@example.com" target="_blank">
+  <a href="mailto:abdullahramzan120@gmail,com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/buzzgrewal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://portfolio.buzzgrewal.dev" target="_blank">
+  <a href="https://buzzgrewal.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://calendly.com/buzzgrewal" target="_blank">
@@ -148,7 +148,7 @@
     </tr>
     <tr>
       <td><strong>C++</strong></td>
-      <td>⭐⭐⭐⭐</td>
+      <td>⭐⭐⭐⭐⭐</td>
       <td><strong>TypeScript</strong></td>
       <td>⭐⭐⭐⭐</td>
     </tr>
@@ -168,9 +168,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzgrewal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buzzgrewal&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
+
 
 ---
 
@@ -292,16 +290,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buzzgrewal&theme=dark&hide_border=true" alt="WakaTime Stats" />
 </div>
 
----
 
-## 🏅 **Badges & Certifications**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certified" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Certified%20Associate-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud Certified" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified%20Developer-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Certified" />
-  <img src="https://img.shields.io/badge/TensorFlow-Certified%20Developer-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow Certified" />
-</div>
 
 ---
 
@@ -325,7 +314,7 @@
   <a href="https://linkedin.com/in/abdullahgrewal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdullah.grewal@example.com" target="_blank">
+  <a href="mailto:abdullahramzan120@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/buzzgrewal" target="_blank">
@@ -339,7 +328,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=buzzgrewal&icon=0&color=0" alt="Profile Views" />
+
   <p><em>Thanks for visiting! 👋</em></p>
   
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-Abdullah%20Grewal-red?style=for-the-badge" alt="Made with Love" />
