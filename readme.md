@@ -246,7 +246,7 @@
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://github.com/buzzgrewal/buzzgrewal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github.com/buzzgrewal/buzzgrewal/blob/main/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 <div align="center">
