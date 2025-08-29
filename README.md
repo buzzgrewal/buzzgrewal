@@ -6,6 +6,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=buzzgrewal&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" alt="Open to Work" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buzzgrewal&theme=github_dark&hide_border=true" alt="Profile Details" />
 </div>
 
 👋 Hi there! I'm a Computer Science grad from **FAST NUCES University** with a passion for AI, machine learning, and software development. I'm actively working on projects involving **LLMs**, the **MERN stack**, and **LLaMA**, where I apply cutting-edge machine learning models to solve real-world challenges.
@@ -41,6 +47,12 @@
   </a>
   <a href="https://twitter.com/buzzgrewal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://portfolio.buzzgrewal.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://calendly.com/buzzgrewal" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20Meeting-00C4CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting" />
   </a>
 </div>
 
@@ -112,6 +124,39 @@
 
 ---
 
+## 📊 **Skill Proficiency**
+
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>Python</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td><strong>JavaScript</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>React</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td><strong>Node.js</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>TensorFlow</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td><strong>MongoDB</strong></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>C++</strong></td>
+      <td>⭐⭐⭐⭐</td>
+      <td><strong>TypeScript</strong></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -144,6 +189,11 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buzzgrewal&theme=github_dark" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzgrewal&theme=github_dark" alt="Repos per Language" />
+</div>
+
 ---
 
 ## 🚀 **Featured Projects**
@@ -163,6 +213,8 @@
           <a href="https://github.com/buzzgrewal/medical-ai" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
+          <img src="https://img.shields.io/badge/Stars-100+-yellow?style=for-the-badge" alt="Stars" />
+          <img src="https://img.shields.io/badge/Forks-50+-blue?style=for-the-badge" alt="Forks" />
         </p>
       </td>
       <td width="50%">
@@ -177,6 +229,8 @@
           <a href="https://github.com/buzzgrewal/edu-ai" target="_blank">
             <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
+          <img src="https://img.shields.io/badge/Stars-75+-yellow?style=for-the-badge" alt="Stars" />
+          <img src="https://img.shields.io/badge/Forks-30+-blue?style=for-the-badge" alt="Forks" />
         </p>
       </td>
     </tr>
@@ -193,13 +247,72 @@
 
 ---
 
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <img src="https://github.com/buzzgrewal/buzzgrewal/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+---
+
 ## 🎯 **Current Goals**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-1%3A%20Launch%20Medical%20AI-brightgreen?style=for-the-badge" alt="Goal 1" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-2%3A%20Publish%20Research-blue?style=for-the-badge" alt="Goal 2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-3%3A%201000%2B%20Stars-yellow?style=for-the-badge" alt="Goal 3" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Goal-4%3A%20Mentor%2050%2B%20Students-purple?style=for-the-badge" alt="Goal 4" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 - [ ] 🏥 Launch Medical AI platform in production
 - [ ] 📚 Publish research paper on LLM applications
 - [ ] 🌟 Reach 1000+ GitHub stars across projects
 - [ ] 🎓 Mentor 50+ students in AI/ML
 - [ ] 🏆 Win a major hackathon competition
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=buzzgrewal&theme=dark&hide_border=true" alt="WakaTime Stats" />
+</div>
+
+---
+
+## 🏅 **Badges & Certifications**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Certified%20Associate-blue?style=for-the-badge&logo=google-cloud" alt="Google Cloud Certified" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified%20Developer-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Certified" />
+  <img src="https://img.shields.io/badge/TensorFlow-Certified%20Developer-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow Certified" />
+</div>
+
+---
+
+## 🎉 **Fun Facts**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Coffee%20Consumption-5%20cups%2Fday-brown?style=for-the-badge&logo=coffee" alt="Coffee Consumption" />
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-100K%2B-green?style=for-the-badge&logo=visual-studio-code" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Bugs%20Fixed-500%2B-red?style=for-the-badge&logo=bug" alt="Bugs Fixed" />
+  <img src="https://img.shields.io/badge/Hackathons%20Won-3%2B-purple?style=for-the-badge&logo=trophy" alt="Hackathons Won" />
+</div>
 
 ---
 
@@ -218,6 +331,9 @@
   <a href="https://twitter.com/buzzgrewal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://calendly.com/buzzgrewal" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20Meeting-00C4CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting" />
+  </a>
 </div>
 
 ---
@@ -225,4 +341,6 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=buzzgrewal&icon=0&color=0" alt="Profile Views" />
   <p><em>Thanks for visiting! 👋</em></p>
+  
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-Abdullah%20Grewal-red?style=for-the-badge" alt="Made with Love" />
 </div>
