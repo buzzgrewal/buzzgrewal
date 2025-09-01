@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" alt="Open to Work" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buzzgrewal&theme=github_dark&hide_border=true" alt="Profile Details" />
-</div>
+
 
 👋 Hi there! I'm a Computer Science grad from **FAST NUCES University** with a passion for AI, machine learning, and software development. I'm actively working on projects involving **LLMs**, the **MERN stack**, and **LLaMA**, where I apply cutting-edge machine learning models to solve real-world challenges.
 
