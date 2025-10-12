@@ -19,7 +19,7 @@
 - 🤖 **AI/ML Development**: Building intelligent systems with LLMs and deep learning
 - 🌐 **Full-Stack Development**: Creating robust web applications with MERN stack
 - 👨‍🏫 **Teaching Assistant**: Mentoring students in programming and data structures
-- 💻 **Technical Head Head**: Leading FCAP (Fast Club of App Development and Programming)
+- 💻 **Technical Head**: Leading FCAP (Fast Club of App Development and Programming)
 - 🏆 **Competitive Programming**: Solving algorithmic challenges
 
 ### 🚀 Current Focus:
