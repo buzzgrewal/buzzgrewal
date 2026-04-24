@@ -12,7 +12,9 @@
 
 
 
-👋 Hi there! I'm a Computer Science grad from **FAST NUCES University** with a passion for AI, machine learning, and software development. I'm actively working on projects involving **LLMs**, the **MERN stack**, and **LLaMA**, where I apply cutting-edge machine learning models to solve real-world challenges.
+👋 Hi there! I'm a Computer Science graduate from FAST NUCES with a specialization in Generative AI and hands-on experience as a Full Stack AI/ML Engineer. I build end-to-end AI systems, including RAG-powered platforms, multi-agent architectures, and real-time speech-to-speech applications.
+I’ve worked extensively with LLMs, semantic search, and vector databases, while developing scalable backends using FastAPI and Flask, and modern frontends with React and Next.js. I’ve also led the development of AI-driven products across education and healthcare, taking them from idea to deployment and real-world impact.
+My work focuses on applying advanced AI technologies like AI Agents, LangChain, and transformer-based models to solve practical, high-impact problems.
 
 ### 🎯 What I Do:
 
