@@ -32,7 +32,7 @@
 <a href="mailto:abdullahramzan120@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA580C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA580C" alt="Email" /></a>
 <a href="https://linkedin.com/in/abdullahgrewal"><img src="https://img.shields.io/badge/-LINKEDIN-EA580C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EA580C" alt="LinkedIn" /></a>
 <a href="https://twitter.com/buzzgrewal"><img src="https://img.shields.io/badge/-X_TWITTER-EA580C?style=for-the-badge&logo=x&logoColor=white&labelColor=EA580C" alt="X" /></a>
-<a href="https://github.com/buzzgrewal"><img src="https://img.shields.io/badge/-GITHUB-0A0F0E?style=for-the-badge&logo=github&logoColor=EA580C&labelColor=0A0F0E" alt="GitHub" /></a>
+<a href="https://github.com/buzzgrewal"><img src="https://img.shields.io/badge/-GITHUB-EA580C?style=for-the-badge&logo=github&logoColor=white&labelColor=EA580C" alt="GitHub" /></a>
 
 </div>
 
