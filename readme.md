@@ -26,7 +26,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/UTC%2B5-PKT-FAFAF7?style=for-the-badge&labelColor=6B6F6A&color=EA580C" alt="UTC+5 PKT" />
 
-<sub><code>N°—</code> &nbsp;<code>PROFILE</code> &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Faisalabad &nbsp;·&nbsp; UTC+5 &nbsp;·&nbsp; <code>▸ Available</code></sub>
+<sub><code>N°—</code> &nbsp;<code>PROFILE</code> &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Lahore &nbsp;·&nbsp; UTC+5 &nbsp;·&nbsp; <code>▸ Available</code></sub>
 
 <a href="https://buzzgrewal.com"><img src="https://img.shields.io/badge/-PORTFOLIO-EA580C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=EA580C" alt="Portfolio" /></a>
 <a href="mailto:abdullahramzan120@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-EA580C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA580C" alt="Email" /></a>
@@ -167,7 +167,7 @@ I work extensively with **LLMs**, **semantic search**, and **vector databases**,
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/04-EA580C?style=flat-square&labelColor=EA580C" alt="04" /> &nbsp; <strong>Location</strong></td>
-    <td>Faisalabad, Pakistan · UTC+5</td>
+    <td>Lahore, Pakistan · UTC+5</td>
     <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
   </tr>
   <tr>
