@@ -248,7 +248,7 @@ I work extensively with **LLMs**, **semantic search**, and **vector databases**,
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td width="25%" valign="top" align="left">
       <sub><code>N°01</code> &nbsp; <strong>PROMPT</strong></sub><br>
@@ -466,11 +466,23 @@ I work extensively with **LLMs**, **semantic search**, and **vector databases**,
 
 </div>
 
-| | | |
-|---|---|---|
-| ![](https://img.shields.io/badge/N°01-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Email** | <abdullahramzan120@gmail.com> | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![](https://img.shields.io/badge/N°02-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Calendly** | [calendly.com/buzzgrewal](https://calendly.com/buzzgrewal) | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![](https://img.shields.io/badge/N°03-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Response** | ~24h · Mon–Sat · 09:00 → 22:00 PKT | ![●](https://img.shields.io/badge/●-EA580C?style=flat-square&labelColor=EA580C) |
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/N°01-EA580C?style=flat-square&labelColor=EA580C" alt="N°01" /> &nbsp; <strong>Email</strong></td>
+    <td><a href="mailto:abdullahramzan120@gmail.com">abdullahramzan120@gmail.com</a></td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/N°02-EA580C?style=flat-square&labelColor=EA580C" alt="N°02" /> &nbsp; <strong>Calendly</strong></td>
+    <td><a href="https://calendly.com/buzzgrewal">calendly.com/buzzgrewal</a></td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/N°03-EA580C?style=flat-square&labelColor=EA580C" alt="N°03" /> &nbsp; <strong>Response</strong></td>
+    <td>~24h · Mon–Sat · 09:00 → 22:00 PKT</td>
+    <td><img src="https://img.shields.io/badge/●-EA580C?style=flat-square&labelColor=EA580C" alt="●" /></td>
+  </tr>
+</table>
 
 <!-- LOCAL TIME PLATE — mini-card matching Contact section's LocalTime -->
 
