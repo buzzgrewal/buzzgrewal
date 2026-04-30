@@ -11,7 +11,10 @@
 
 <sub><code>▸ READ ME</code> &nbsp;·&nbsp; <code>2026</code> &nbsp;·&nbsp; <code>@BUZZGREWAL</code></sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=72&duration=4000&pause=2000&color=0A0F0E&center=true&vCenter=true&width=720&height=110&lines=ABDULLAH+GREWAL." alt="Abdullah Grewal" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=72&duration=4000&pause=2000&color=F0EFE9&center=true&vCenter=true&width=720&height=110&lines=ABDULLAH+GREWAL." />
+  <img alt="Abdullah Grewal" src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=800&size=72&duration=4000&pause=2000&color=0A0F0E&center=true&vCenter=true&width=720&height=110&lines=ABDULLAH+GREWAL." />
+</picture>
 
 <img src="https://img.shields.io/badge/-▸_OPEN_TO_WORK-EA580C?style=for-the-badge&labelColor=EA580C" alt="Open to work" />
 &nbsp;
