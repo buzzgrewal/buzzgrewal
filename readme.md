@@ -149,13 +149,33 @@ I work extensively with **LLMs**, **semantic search**, and **vector databases**,
   <img src="https://img.shields.io/badge/N°02-CURRENTLY-EA580C?style=for-the-badge&labelColor=FAFAF7" alt="N°02 · Currently" />
 </div>
 
-| | | |
-|---|---|---|
-| ![01](https://img.shields.io/badge/01-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Role** | Senior AI/ML Engineer | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![02](https://img.shields.io/badge/02-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Company** | Infinitiv AI | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![03](https://img.shields.io/badge/03-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Focus** | Conversational AI · RAG · Multi-Agent | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![04](https://img.shields.io/badge/04-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Location** | Faisalabad, Pakistan · UTC+5 | ![](https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C) |
-| ![05](https://img.shields.io/badge/05-EA580C?style=flat-square&labelColor=EA580C) &nbsp; **Status** | Open to new work | ![●](https://img.shields.io/badge/●-EA580C?style=flat-square&labelColor=EA580C) |
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/01-EA580C?style=flat-square&labelColor=EA580C" alt="01" /> &nbsp; <strong>Role</strong></td>
+    <td>Lead AI/ML Engineer</td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/02-EA580C?style=flat-square&labelColor=EA580C" alt="02" /> &nbsp; <strong>Company</strong></td>
+    <td>Infinitiv AI</td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/03-EA580C?style=flat-square&labelColor=EA580C" alt="03" /> &nbsp; <strong>Focus</strong></td>
+    <td>Conversational AI · RAG · Multi-Agent</td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/04-EA580C?style=flat-square&labelColor=EA580C" alt="04" /> &nbsp; <strong>Location</strong></td>
+    <td>Faisalabad, Pakistan · UTC+5</td>
+    <td><img src="https://img.shields.io/badge/▸-EA580C?style=flat-square&labelColor=EA580C" alt="▸" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/05-EA580C?style=flat-square&labelColor=EA580C" alt="05" /> &nbsp; <strong>Status</strong></td>
+    <td>Open to new work</td>
+    <td><img src="https://img.shields.io/badge/●-EA580C?style=flat-square&labelColor=EA580C" alt="●" /></td>
+  </tr>
+</table>
 
 ---
 
