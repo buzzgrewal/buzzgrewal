@@ -1,329 +1,236 @@
-# 💫 About Me:
+<!--
+  README in the same Swiss / Bauhaus / Aurora vocabulary as buzzgrewal.com.
+  Editorial typography over decorative widgets — set in mono caps, anchored
+  by N° tables, separated by accent rules.
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Abdullah+Grewal!;Computer+Science+Graduate;AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=buzzgrewal&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge" alt="Open to Work" />
-</div>
-
-
-
-👋 Hi there! I'm a Computer Science graduate from FAST NUCES with a specialization in Generative AI and hands-on experience as a Full Stack AI/ML Engineer. I build end-to-end AI systems, including RAG-powered platforms, multi-agent architectures, and real-time speech-to-speech applications.
-I’ve worked extensively with LLMs, semantic search, and vector databases, while developing scalable backends using FastAPI and Flask, and modern frontends with React and Next.js. I’ve also led the development of AI-driven products across education and healthcare, taking them from idea to deployment and real-world impact.
-My work focuses on applying advanced AI technologies like AI Agents, LangChain, and transformer-based models to solve practical, high-impact problems.
-
-### 🎯 What I Do:
-
-- 🤖 **AI/ML Development**: Building intelligent systems with LLMs and deep learning
-- 🌐 **Full-Stack Development**: Creating robust web applications with MERN stack
-- 👨‍🏫 **Teaching Assistant**: Mentoring students in programming and data structures
-- 💻 **Technical Head**: Leading FCAP (Fast Club of App Development and Programming)
-- 🏆 **Competitive Programming**: Solving algorithmic challenges
-
-### 🚀 Current Focus:
-
-- Medical AI applications
-- Educational AI tools
-- Large Language Model integration
-- Real-time web applications
-
----
-
-## 🌐 Socials:
-
-<div align="center">
-  <a href="https://linkedin.com/in/abdullahgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/buzzgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:abdullahramzan120@gmail,com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/buzzgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://buzzgrewal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://calendly.com/buzzgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20Meeting-00C4CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting" />
-  </a>
-</div>
-
----
-
-## 🛠️ Tech Stack:
-
-### 🎯 **Languages & Frameworks**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</div>
-
-### 🎨 **Frontend Development**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
-
-### ⚙️ **Backend Development**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
-
-### 🗄️ **Databases**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-</div>
-
-### 🤖 **AI/ML & Data Science**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
-</div>
-
-### ☁️ **Cloud & DevOps**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</div>
-
----
-
-## 📊 **Skill Proficiency**
-
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Python</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-      <td><strong>JavaScript</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td><strong>React</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-      <td><strong>Node.js</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td><strong>TensorFlow</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-      <td><strong>MongoDB</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-    </tr>
-    <tr>
-      <td><strong>C++</strong></td>
-      <td>⭐⭐⭐⭐⭐</td>
-      <td><strong>TypeScript</strong></td>
-      <td>⭐⭐⭐⭐</td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buzzgrewal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzgrewal&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzgrewal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 **Achievements & Certifications**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buzzgrewal&theme=github_dark" alt="Profile Details" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buzzgrewal&theme=github_dark" alt="Most Commit Language" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buzzgrewal&theme=github_dark" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzgrewal&theme=github_dark" alt="Repos per Language" />
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Medical Assistant</h3>
-        <div align="center">
-          <a href="https://github.com/buzzgrewal/medical-ai" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzzgrewal&repo=medical-ai&theme=dark" width="100%" alt="Medical AI Project"/>
-          </a>
-        </div>
-        <p align="center">Advanced medical diagnosis system using LLMs and computer vision</p>
-        <p align="center">
-          <a href="https://github.com/buzzgrewal/medical-ai" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-          </a>
-          <img src="https://img.shields.io/badge/Stars-100+-yellow?style=for-the-badge" alt="Stars" />
-          <img src="https://img.shields.io/badge/Forks-50+-blue?style=for-the-badge" alt="Forks" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎓 Educational AI Platform</h3>
-        <div align="center">
-          <a href="https://github.com/buzzgrewal/edu-ai" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=buzzgrewal&repo=edu-ai&theme=dark" width="100%" alt="Educational AI Project"/>
-          </a>
-        </div>
-        <p align="center">Intelligent tutoring system with personalized learning paths</p>
-        <p align="center">
-          <a href="https://github.com/buzzgrewal/edu-ai" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-          </a>
-          <img src="https://img.shields.io/badge/Stars-75+-yellow?style=for-the-badge" alt="Stars" />
-          <img src="https://img.shields.io/badge/Forks-30+-blue?style=for-the-badge" alt="Forks" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buzzgrewal&theme=github-compact" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://github.com/buzzgrewal/buzzgrewal/blob/main/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzgrewal&theme=dark&hide_border=true&background=0D1117&stroke=00bfbf&currStreakNum=00bfbf&fire=00bfbf&ring=00bfbf&currStreakLabel=00bfbf" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 **Current Goals**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-1%3A%20Launch%20Medical%20AI-brightgreen?style=for-the-badge" alt="Goal 1" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-2%3A%20Publish%20Research-blue?style=for-the-badge" alt="Goal 2" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-3%3A%201000%2B%20Stars-yellow?style=for-the-badge" alt="Goal 3" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Goal-4%3A%20Mentor%2050%2B%20Students-purple?style=for-the-badge" alt="Goal 4" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-- [ ] 🏥 Launch Medical AI platform in production
-- [ ] 📚 Publish research paper on LLM applications
-- [ ] 🌟 Reach 1000+ GitHub stars across projects
-- [ ] 🎓 Mentor 50+ students in AI/ML
-- [ ] 🏆 Win a major hackathon competition
-
----
-
-
-
-## 🎉 **Fun Facts**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Coffee%20Consumption-5%20cups%2Fday-brown?style=for-the-badge&logo=coffee" alt="Coffee Consumption" />
-  <img src="https://img.shields.io/badge/Lines%20of%20Code-100K%2B-green?style=for-the-badge&logo=visual-studio-code" alt="Lines of Code" />
-  <img src="https://img.shields.io/badge/Bugs%20Fixed-500%2B-red?style=for-the-badge&logo=bug" alt="Bugs Fixed" />
-  <img src="https://img.shields.io/badge/Hackathons%20Won-3%2B-purple?style=for-the-badge&logo=trophy" alt="Hackathons Won" />
-</div>
-
----
-
-## 📫 **Let's Connect!**
-
-<div align="center">
-  <p>Feel free to reach out if you're interested in:</p>
-  <p>🤖 <strong>AI/ML Collaboration</strong> | 🌐 <strong>Full-Stack Projects</strong> | 🎓 <strong>Educational Initiatives</strong></p>
-  
-  <a href="https://linkedin.com/in/abdullahgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdullahramzan120@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/buzzgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://calendly.com/buzzgrewal" target="_blank">
-    <img src="https://img.shields.io/badge/Schedule%20Meeting-00C4CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule Meeting" />
-  </a>
+  <sub><code>▸ READ ME</code> &nbsp;·&nbsp; <code>2026</code> &nbsp;·&nbsp; <code>@BUZZGREWAL</code></sub>
 </div>
 
 ---
 
 <div align="center">
 
-  <p><em>Thanks for visiting! 👋</em></p>
-  
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-Abdullah%20Grewal-red?style=for-the-badge" alt="Made with Love" />
+# A B D U L L A H
+## ` G R E W A L . `
+
+<sub><code>N°—</code> &nbsp;<code>PROFILE</code> &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Faisalabad &nbsp;·&nbsp; UTC+5 &nbsp;·&nbsp; <code>▸ Open to work</code></sub>
+
+<a href="https://buzzgrewal.com">buzzgrewal.com</a> &nbsp;·&nbsp;
+<a href="mailto:abdullahramzan120@gmail.com">abdullahramzan120@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/abdullahgrewal">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://twitter.com/buzzgrewal">X</a>
+
+</div>
+
+---
+
+## `N°01` &nbsp; About
+
+> AI/ML & Web Engineer specialising in transformers, RAG systems, multi-agent platforms, and full-stack AI applications.
+
+Computer Science graduate from **FAST NUCES** with a specialisation in **Generative AI** and hands-on experience as a **Full-Stack AI/ML Engineer**. I build end-to-end AI systems — RAG-powered platforms, multi-agent architectures, and real-time speech-to-speech applications.
+
+I work extensively with **LLMs**, **semantic search**, and **vector databases**, while shipping scalable backends in **FastAPI** / **Flask** and modern frontends in **React** / **Next.js**. I've led AI-driven products across **education** and **healthcare** from idea to deployment.
+
+---
+
+## `N°02` &nbsp; Currently
+
+| | | |
+|---|---|---|
+| `01` &nbsp; **Role** | Senior AI/ML Engineer | `▸` |
+| `02` &nbsp; **Company** | Infinitiv AI | `▸` |
+| `03` &nbsp; **Focus** | Conversational AI · RAG · Multi-Agent | `▸` |
+| `04` &nbsp; **Location** | Faisalabad, Pakistan · UTC+5 | `▸` |
+| `05` &nbsp; **Status** | Open to new work | `●` |
+
+---
+
+## `N°03` &nbsp; Stack
+
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <code>01</code> &nbsp; <strong>AI / ML</strong>
+      <br><sub>
+        Python · PyTorch · TensorFlow<br>
+        Transformers · LangChain · CrewAI<br>
+        Hugging Face · scikit-learn · FAISS<br>
+        OpenCV · YOLO · Whisper · Deepgram
+      </sub>
+    </td>
+    <td valign="top" width="25%">
+      <code>02</code> &nbsp; <strong>Web</strong>
+      <br><sub>
+        TypeScript · React · Next.js<br>
+        Node.js · Express · FastAPI<br>
+        Flask · Django · Laravel<br>
+        Tailwind · React Native
+      </sub>
+    </td>
+    <td valign="top" width="25%">
+      <code>03</code> &nbsp; <strong>Data</strong>
+      <br><sub>
+        PostgreSQL · pgvector<br>
+        MongoDB · MySQL · ChromaDB<br>
+        REST · GraphQL · RAG pipelines<br>
+        Embedding & semantic search
+      </sub>
+    </td>
+    <td valign="top" width="25%">
+      <code>04</code> &nbsp; <strong>Cloud / Tools</strong>
+      <br><sub>
+        AWS · Vercel · Azure<br>
+        Docker · CI/CD · Nginx<br>
+        Git · GitHub Actions<br>
+        Cursor · Linux · macOS
+      </sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `N°04` &nbsp; Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>01 / 04</code> &nbsp; <code>▸</code></sub>
+      <h3>WisdomWave</h3>
+      <p><sub>AI-powered educational platform with RAG and multi-agent tutoring for O/A-Level students.</sub></p>
+      <sub><code>RAG · LLaMA · ChromaDB · React · Flask</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>02 / 04</code> &nbsp; <code>▸</code></sub>
+      <h3>MedAssist AI</h3>
+      <p><sub>Medical-AI assistant for diagnostic support — combines vision models with LLM reasoning over patient data.</sub></p>
+      <sub><code>Computer Vision · LLM · FastAPI · Next.js</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>03 / 04</code> &nbsp; <code>▸</code></sub>
+      <h3>Speech-to-Speech Pipeline</h3>
+      <p><sub>Real-time speech translation and persona-tuned voice agent built on Whisper + Deepgram + custom LLM routing.</sub></p>
+      <sub><code>Whisper · Deepgram · WebSockets · Streaming</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>04 / 04</code> &nbsp; <code>▸</code></sub>
+      <h3>Multi-Agent Research Suite</h3>
+      <p><sub>CrewAI-powered research agents that plan, search, and synthesise reports end-to-end.</sub></p>
+      <sub><code>CrewAI · LangChain · Agents · Tool-use</code></sub>
+    </td>
+  </tr>
+</table>
+
+<sub><code>▸ More</code> &nbsp; All live repos: <a href="https://github.com/buzzgrewal?tab=repositories">github.com/buzzgrewal</a></sub>
+
+---
+
+## `N°05` &nbsp; Activity
+
+<div align="center">
+
+<a href="https://github.com/buzzgrewal">
+  <img src="https://github-readme-stats.vercel.app/api?username=buzzgrewal&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=EA580C&icon_color=EA580C&text_color=6B6F6A&bg_color=FAFAF7" height="160" alt="GitHub stats" />
+</a>
+<a href="https://github.com/buzzgrewal">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzgrewal&hide_border=true&background=FAFAF7&stroke=EA580C&ring=EA580C&fire=EA580C&currStreakLabel=EA580C&sideLabels=6B6F6A&dates=6B6F6A&currStreakNum=0A0F0E&sideNums=0A0F0E" height="160" alt="GitHub streak" />
+</a>
+
+<br>
+
+<a href="https://github.com/buzzgrewal">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzgrewal&layout=compact&hide_border=true&title_color=EA580C&text_color=6B6F6A&bg_color=FAFAF7&langs_count=8" height="160" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+## `N°06` &nbsp; Where Else
+
+<table>
+  <tr>
+    <td><code>01</code></td>
+    <td><strong>GitHub</strong></td>
+    <td><a href="https://github.com/buzzgrewal">github.com/buzzgrewal</a></td>
+    <td><sub>Code · Open source</sub></td>
+  </tr>
+  <tr>
+    <td><code>02</code></td>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://linkedin.com/in/abdullahgrewal">in/abdullahgrewal</a></td>
+    <td><sub>Roles · Network</sub></td>
+  </tr>
+  <tr>
+    <td><code>03</code></td>
+    <td><strong>Medium</strong></td>
+    <td><a href="https://medium.com/@buzzgrewal">@buzzgrewal</a></td>
+    <td><sub>Long-form writing</sub></td>
+  </tr>
+  <tr>
+    <td><code>04</code></td>
+    <td><strong>X / Twitter</strong></td>
+    <td><a href="https://twitter.com/buzzgrewal">@buzzgrewal</a></td>
+    <td><sub>Notes · Build log</sub></td>
+  </tr>
+  <tr>
+    <td><code>05</code></td>
+    <td><strong>Kaggle</strong></td>
+    <td><a href="https://www.kaggle.com/buzzgrewal">@buzzgrewal</a></td>
+    <td><sub>Notebooks · Data</sub></td>
+  </tr>
+  <tr>
+    <td><code>06</code></td>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://buzzgrewal.com">buzzgrewal.com</a></td>
+    <td><sub>This site</sub></td>
+  </tr>
+</table>
+
+---
+
+## `N°07` &nbsp; Get in Touch
+
+<table>
+  <tr>
+    <td><code>N°01</code></td>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:abdullahramzan120@gmail.com">abdullahramzan120@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><code>N°02</code></td>
+    <td><strong>Calendly</strong></td>
+    <td><a href="https://calendly.com/buzzgrewal">calendly.com/buzzgrewal</a></td>
+  </tr>
+  <tr>
+    <td><code>N°03</code></td>
+    <td><strong>Response</strong></td>
+    <td>~24h · Mon–Sat · 09:00 → 22:00 PKT</td>
+  </tr>
+</table>
+
+> **Method** &nbsp; · &nbsp; Specs first &nbsp;·&nbsp; Ship weekly &nbsp;·&nbsp; Iterate publicly
+
+---
+
+<div align="center">
+
+<sub><code>END OF TRANSMISSION</code></sub>
+
+<sub>
+  <code>N°—</code> &nbsp; © 2026 Abdullah Grewal &nbsp;·&nbsp;
+  Set in Inter Tight &amp; JetBrains Mono &nbsp;·&nbsp;
+  Iterating live &nbsp;·&nbsp;
+  Open to roles
+</sub>
+
+<br><br>
+
+<a href="https://buzzgrewal.com"><sub>↑ buzzgrewal.com</sub></a>
+
 </div>
