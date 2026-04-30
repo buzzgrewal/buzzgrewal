@@ -101,7 +101,7 @@
   <img src="https://img.shields.io/badge/N°01-ABOUT-EA580C?style=for-the-badge&labelColor=FAFAF7" alt="N°01 · About" />
 </div>
 
-> <img src="https://img.shields.io/badge/■-EA580C?style=flat-square&labelColor=EA580C" alt="■" height="16" /> &nbsp; AI/ML & Web Engineer specialising in transformers, RAG systems, multi-agent platforms, and full-stack AI applications.
+> <img src="https://img.shields.io/badge/⬢-EA580C?style=flat-square&labelColor=EA580C" alt="neural" height="18" /> &nbsp; AI/ML & Web Engineer specialising in transformers, RAG systems, multi-agent platforms, and full-stack AI applications.
 
 Computer Science graduate from **FAST NUCES** with a specialisation in **Generative AI** and hands-on experience as a **Full-Stack AI/ML Engineer**. I build end-to-end AI systems — RAG-powered platforms, multi-agent architectures, and real-time speech-to-speech applications.
 
@@ -526,7 +526,7 @@ I work extensively with **LLMs**, **semantic search**, and **vector databases**,
 </tr>
 </table>
 
-> <img src="https://img.shields.io/badge/■-EA580C?style=flat-square&labelColor=EA580C" alt="■" height="16" /> &nbsp; **Method** &nbsp;·&nbsp; Specs first &nbsp;·&nbsp; Ship weekly &nbsp;·&nbsp; Iterate publicly
+> <img src="https://img.shields.io/badge/⟳-EA580C?style=flat-square&labelColor=EA580C" alt="iterate" height="18" /> &nbsp; **Method** &nbsp;·&nbsp; Specs first &nbsp;·&nbsp; Ship weekly &nbsp;·&nbsp; Iterate publicly
 
 ---
 
